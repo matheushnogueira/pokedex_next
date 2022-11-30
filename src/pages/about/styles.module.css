@@ -1,0 +1,14 @@
+.img_container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+.img_container img {
+	margin: 2em;
+}
+
+.img_container p {
+	font-weight: bold;
+}

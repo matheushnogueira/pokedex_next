@@ -1,0 +1,14 @@
+{
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnSave": true,
+	"files.autoSave": "onFocusChange",
+	"cSpell.words": [
+		"charizard",
+		"pokeball",
+		"pokedex",
+		"Pokédex",
+		"pokemon",
+		"pokemons",
+		"Pokemons"
+	]
+}
